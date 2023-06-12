@@ -1,0 +1,12 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameManager">
+			<method name="RestartGame"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.AudioModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.AudioSource">
+			<method name="set_volume"/>
+		</type>
+	</assembly>
+</linker>
