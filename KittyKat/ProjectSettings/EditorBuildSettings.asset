@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacter.unity
+    guid: de05f465ce79ade46a42311a76f4f502
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: bdcd56bcd953f0c4491a8e1806bea6a4
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 91759b06b968105499f85b0388064700
+  - enabled: 1
+    path: Assets/Scenes/BearBoss.unity
+    guid: 2b71cd3007fa87549a5cf3cf5777b034
+  m_configObjects: {}
